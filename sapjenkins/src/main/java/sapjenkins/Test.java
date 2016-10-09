@@ -3,8 +3,8 @@ package sapjenkins;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("hi");
-		//my change
+		System.out.println("hello");
+		//my chang
 
 	}
 
